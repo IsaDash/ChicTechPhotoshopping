@@ -91,16 +91,18 @@ public class Picture extends SimplePicture
 
 	}
 
-
+/**
+ *************************CODE TO EDIT********************************
+ */
 	public void grayscale() {
 	
 	}
-	
-	public void Photoshop(Picture newPic){
+	public void Photoshop(Picture newPic) {
 	  
-	 } 
-  }
+	}
+	
+}
 
 
 
-} 
+
